@@ -1,0 +1,15 @@
+# Smart Contracts
+
+Here are the smart contracts for OxSwap:
+
+UniswapV2Factory = 0xC342d6CCd44A198A4f2B19645FaA687eebca600F
+
+UniswapV2Router02 = 0xdA3693b66a513f0B43E38D617583bC33338CC931
+
+Init code hash for UniswapV2Pair is: 0xf5c6349a3426610a576de8f5064de4fbb6eb7242dc4615964596f301ec76e1de
+
+OxSwapToken = 0x12F0e8B217F095B33be6b73b4B61e5487E46F5C9
+
+OxSwapMaker = 0x1A70E5382e43DB9cc50e032a1d751707744E0D19
+
+MasterChef = 0xf5c7BD4De452D44295c5Cb5A6e8bd11013dF2d3B
